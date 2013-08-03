@@ -1,0 +1,19 @@
+{
+  "main": "index.html",
+  "name": "CitySurf",
+  "description": "CitySurf for Leap Motion",
+  "version": "0.1.0",
+  "keywords": [ "CitySurf", "game" ],
+  "window": {
+    "title": "CitySurf for Leap Motion",
+    "icon": "icon.png",
+    "toolbar": true,
+    "frame": true,
+    "resizable": true,
+    "width": 1200,
+    "height": 750,
+    "position": "center",
+    "min_width": 1000,
+    "min_height": 700
+  }
+}
